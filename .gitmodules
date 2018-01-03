@@ -1,0 +1,3 @@
+[submodule "subprojects/lo_test"]
+	path = subprojects/lo_test
+	url = https://github.com/willwray/lo_test
